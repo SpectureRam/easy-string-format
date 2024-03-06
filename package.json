@@ -1,0 +1,26 @@
+{
+  "name": "easy-string-format",
+  "version": "1.0.0",
+  "description": "A comprehensive string methods for string patterns",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SpectureRam/easy-string-format.git"
+  },
+  "keywords": [
+    "string",
+    "javascript",
+    "java",
+    "methods",
+    "calculation"
+  ],
+  "author": "SAIRAM N",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SpectureRam/easy-string-format/issues"
+  },
+  "homepage": "https://github.com/SpectureRam/easy-string-format#readme"
+}
